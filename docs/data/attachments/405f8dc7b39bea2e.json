@@ -1,0 +1,11 @@
+{
+  "status_code": 401,
+  "elapsed_ms": 98.381,
+  "body": {
+    "type": "about:blank",
+    "title": "Unauthorized",
+    "status": 401,
+    "detail": "invalid.username_or_password",
+    "instance": "/api/login"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://keeping.uz/services/platon-core/web/v1/pages/balance_sheet",
+  "params": null,
+  "headers": {
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+    "device-id": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "Authorization": "Bearer eyJhbGciOiJSUzI1NiJ9.eyJ1cGRhdGVfaWQiOjEwODMxNywic3ViIjoiY2MwNWMzZTktNjQzNC00ZDc5LWJlNGMtZTc0MWVkZWY0ZGFhIiwicm9sZXMiOiIiLCJpc3MiOiIiLCJ0eXBlIjoiQmVhcmVyIiwibG9jYWxlIjoidXoiLCJzaWQiOiJlY2JlYjVjYS03ODE0LTRhMDktOWQyZi1jMGVhY2FjOTIzODQiLCJhdWQiOiJhY2NvdW50IiwiZnVsbF9uYW1lIjoiQkVTVCBSRUxJQUJMRSBCVVNJTkVTUy0yIE1DSEoiLCJleHAiOjE3NjI5NjM1MDUsInNlc3Npb25fc3RhdGUiOiJTVEFURUxFU1MiLCJpYXQiOjE3NjI5NDU1MDUsImp0aSI6IjUwOTk0NzA3LWMyYzctNDZkMC1iNzFlLTRmODcxY2FjNDUzYyIsInVzZXJuYW1lIjoidXNlcjMwNjk4ODM3MSJ9.UcE4AnOSI9uvNBN7zOB1kBFhCRLna9P5G_AscNvJHCW3-TYvJcp6yK74cEURLZ8UwK9JLZd5fnZiAHzlCYAyC6MuudyNRI69G1WBTnMdlVDXE5sR-bgAnokFdQknKTLvBnZTKlB1PORJzjmVsz5gM-cbaHwqq2R8dXzPwXIIPwZXxiDUbsFhufFYEI4Rk82ZVjq8KTMzrlD7XSNf40LvtBPCCkzAn5IISVz-pc0ghxHwMkSBizbMP1Ukqob9WqKWDofhM65jvgb52_xTdK4uGooT8kcWlOl9onPzKaWPUR2Ny4t5XWgl6T_Gt_hbN1aPFbG94hJBmjw70TH1hXeDMQ"
+  }
+}
