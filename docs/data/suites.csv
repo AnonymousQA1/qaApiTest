@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","460","test_get_user","","2025-11-04","passed","2025-11-04","","test_api_sample","",""
+"","688","test_update_user","","2025-11-04","passed","2025-11-04","","test_api_sample","",""
+"Verifies that the Balance Sheet page returns 200 and contains expected data","335","GET Balance Sheet Page","api_tests.tests","2025-11-12","passed","2025-11-12","","test_pages","",""
+"Verifies that the Primary Document page returns 200 and contains expected data","133","GET Primary Document Page","api_tests.tests","2025-11-12","passed","2025-11-12","","test_pages","",""
+"Verifies that a user can login successfully and receives a valid token or success response","66","Login API should authenticate valid user","api_tests.tests","2025-11-12","passed","2025-11-12","","test_login","",""
