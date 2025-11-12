@@ -2,7 +2,7 @@ import requests
 
 BOT_TOKEN = "8350380830:AAF8dGJCGjC9xPqoiXyYKlIP4B2eplyCXW8"
 CHAT_ID = "-4999854678"
-ALLURE_HTML_PATH = "./allure-report/index.html"
+ALLURE_HTML_PATH = "./allure-report.html"
 
 def send_allure_report():
     with open(ALLURE_HTML_PATH, "rb") as f:

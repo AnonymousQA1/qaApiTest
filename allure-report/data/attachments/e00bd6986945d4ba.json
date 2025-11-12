@@ -1,0 +1,10 @@
+{
+  "url": "https://keeping.uz/services/platon-core/web/v1/pages/primary_doc_v2",
+  "params": null,
+  "headers": {
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+    "device-id": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "Authorization": "Bearer eyJhbGciOiJSUzI1NiJ9.eyJ1cGRhdGVfaWQiOjEwODMxNywic3ViIjoiY2MwNWMzZTktNjQzNC00ZDc5LWJlNGMtZTc0MWVkZWY0ZGFhIiwicm9sZXMiOiIiLCJpc3MiOiIiLCJ0eXBlIjoiQmVhcmVyIiwibG9jYWxlIjoicnUiLCJzaWQiOiJlY2JlYjVjYS03ODE0LTRhMDktOWQyZi1jMGVhY2FjOTIzODQiLCJhdWQiOiJhY2NvdW50IiwiZnVsbF9uYW1lIjoiQkVTVCBSRUxJQUJMRSBCVVNJTkVTUy0yIE1DSEoiLCJleHAiOjE3NjI1Mjk4NTksInNlc3Npb25fc3RhdGUiOiJTVEFURUxFU1MiLCJpYXQiOjE3NjI1MTE4NTksImp0aSI6Ijc1NzFkODM4LTI0ODAtNDI1ZC04Zjc3LTZjNGI4YzFmOWU4OCIsInVzZXJuYW1lIjoidXNlcjMwNjk4ODM3MSJ9.o16pezd_LZSGx45EI4LPIZJq7hgTkH7bpgl7atSzQKKaM_wL34z9qCN8tp0nvg_10fW-DFgCocV3iVBpVmczHDW_d1f8LmhPkeasCsKbGnjrbsMv8hLTEP--qYvbXP13QRzSrQ2L3Q2--IZurVOfV1mJGIBOJxL7sCQLdTWJkoLX6y9oNbZF5RRfc4anc3Hk0dp3if7iFVrHJUmhTCuh1Pet4R-1mtfC2L6HvOcUkF6j-U-sF800C6SU1gqOBUbF5WYFrK8qC-3-RNxWY5LltRjozHARVvqprpG3txU4HGY-uS8QCobF3ocAlOgN-fzCeg8oPOaxTpgIGGyVbDQMqQ"
+  }
+}
